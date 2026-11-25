@@ -1,0 +1,3 @@
+scikit-learn>=1.4
+anthropic>=0.40   # only needed for the optional AI step
+pytest>=8.0

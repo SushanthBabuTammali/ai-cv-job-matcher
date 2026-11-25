@@ -1,0 +1,19 @@
+Alex Example (fictional sample CV)
+MSc Data Science graduate
+
+Profile
+Data Science graduate who enjoys turning messy data into clear answers. Comfortable with Python
+and SQL, and with explaining results to non-technical audiences.
+
+Experience
+Data Science Intern, Example Analytics, 2025
+- Cleaned and explored a 7-million-row dataset in Python (pandas) and presented findings with matplotlib charts
+- Built a decision-tree classifier with scikit-learn and evaluated it with precision and recall
+- Wrote short reports summarising each analysis for a non-technical audience
+
+Projects
+- Customer segmentation of an online retailer using SQL and RFM scoring
+- Sentiment analysis (NLP) of social media posts
+
+Skills
+Python, pandas, SQL, Excel, Power BI, Git, machine learning, communication

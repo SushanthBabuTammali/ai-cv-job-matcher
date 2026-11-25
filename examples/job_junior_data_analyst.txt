@@ -1,0 +1,25 @@
+Junior Data Analyst — Example Retail Group (fictional advert for demo purposes)
+Location: Cardiff (hybrid)
+
+The role
+You will turn sales and customer data into clear reports and dashboards that help our
+commercial team make better decisions.
+
+Responsibilities
+- Write SQL queries to extract and clean data from our data warehouse
+- Build and maintain Power BI dashboards and weekly KPI reporting
+- Carry out exploratory data analysis to spot trends in sales and customer behaviour
+- Support customer segmentation and forecasting projects
+- Present findings to non-technical stakeholders
+
+Essential
+- Degree in a numerate subject such as Data Science, Mathematics or Computer Science
+- Strong SQL and Excel skills
+- Experience with Python (pandas) for data cleaning and analysis
+- Good communication and problem-solving skills
+
+Desirable
+- Experience with Tableau or Looker
+- Knowledge of statistics and A/B testing
+- Exposure to cloud platforms such as Azure or AWS
+- Familiarity with Git
